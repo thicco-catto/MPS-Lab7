@@ -10,9 +10,4 @@ public class UserRegistraticonTest {
     public void ShouldNotRegisterUserIfDateValidateFails(){
 
     }
-
-    @Test
-    public void ShouldNotRegisterUserIfCredentialStore(){
-
-    }
 }

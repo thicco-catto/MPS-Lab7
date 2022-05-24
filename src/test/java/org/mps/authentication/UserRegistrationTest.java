@@ -5,7 +5,7 @@ import org.mockito.Mockito;
 
 import static org.mockito.Mockito.times;
 
-public class UserRegistraticonTest {
+public class UserRegistrationTest {
     //credenciales guardados
     @Test
     void shouldRegisterUserIfTheValuesAreCorrect() {
